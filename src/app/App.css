@@ -1,0 +1,14 @@
+.cards__container{
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+
+}
+
+/* #cat-card__img{
+    width: 30%;
+} */
+
+#books-card_img{
+    width: 45%;
+}

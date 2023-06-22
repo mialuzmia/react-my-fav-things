@@ -1,0 +1,33 @@
+.card__container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    max-height: 20rem;
+    margin-bottom: 2rem;
+    gap: 1rem;
+}
+.card__content-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 90%;
+    max-height: 90%;
+    width: 100%;
+    gap: 1rem;
+
+}
+
+.card__img{
+    max-height: 100%;
+    max-width: 50%;
+}
+.card__text{
+    width: 48%;
+    text-align: justify;
+    font-size: 1.2em;
+}
+.card__subtitle{
+    max-height: 10%;
+    font-size: 1.5rem;
+    /* margin-bottom: 1rem; */
+}
